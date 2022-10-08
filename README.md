@@ -1,4 +1,5 @@
 Olá Mundo!
+ 
 Sou o Alan Alves:
 - paulista;
 - trinta-e-poucos-anos;
@@ -10,5 +11,5 @@ Sou o Alan Alves:
 - escritor amador;
 - maratonista de séries;
 - e muito mais...
-
-Corre lá em (https://linktr.ee/alan.alves87)[https://linktr.ee/alan.alves87] pra me achar nas redes sociais.
+ 
+Corre lá em [https://linktr.ee/alan.alves87] pra me achar nas redes sociais.
